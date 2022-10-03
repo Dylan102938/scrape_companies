@@ -1,0 +1,9 @@
+pandas
+beautifulsoup4
+concurrent
+threading
+requests
+psycopg2-binary
+numpy
+math
+func-timeout
